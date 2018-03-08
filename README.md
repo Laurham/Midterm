@@ -7,24 +7,18 @@ Hello, world!
 </div>
 </font>
 </p>
-
 <head>
 <h1>
 Michael Alexander
  &nbsp
- &nbsp
- &nbsp
- &nbsp
- &nbsp
- &nbsp
- &nbsp
- &nbsp
- &nbsp
- &nbsp
- <img align="right">
+  &nbsp
+  &nbsp
+  &nbsp
+  &nbsp
+  &nbsp
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4ugtoMqk4oIdleBQMsgIyKRL2gh4PlwjtjFPFQU2vthn6KhKpA" width="400" height="200"/>
   </h1>
-</head>
+ </head>
 <hr>
 
 <p>
