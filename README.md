@@ -11,6 +11,8 @@ Hello, world!
 <head>
 <h1>
 Michael Alexander
+ &nbsp
+  &nbsp
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4ugtoMqk4oIdleBQMsgIyKRL2gh4PlwjtjFPFQU2vthn6KhKpA" width="300" height="200"
 valign="middle" />
   </h1>
