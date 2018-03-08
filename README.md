@@ -84,7 +84,7 @@ CompTIAA A+, HDI-Support Center Analyst (HDI-SCA)
   Systems
 </strong>
 <br />
-CICS/ISPF/Mainframe, unix, Linux, Windows, Novell Netware, Mac OS X, Mobile
+CICS/ISPF/Mainframe, Unix, Linux, Windows, Novell Netware, Mac OS X, Mobile
 </p>
 
 <p>
